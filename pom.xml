@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.wonsunahn</groupId>
-  <artifactId>cs1632-cicd-pipelines-atp49</artifactId>
+  <artifactId>cs1632-cicd-pipelines</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
@@ -39,7 +39,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/CS1632-Spring-2025/supplementary-exercise-4-ci-cd-pipelines-annloggg</url>
+      <url>https://maven.pkg.github.com/CS1632-Spring-2025/supplementary-exercise-4-ci-cd-pipelines-annaloggg</url>
     </repository>
   </distributionManagement>
 
